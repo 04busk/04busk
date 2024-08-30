@@ -1,5 +1,4 @@
-### *Boas vindas ao meu perfil*https://media.tenor.com/i1A1oy5uCE0AAAAi/creucat-mini.gif
-
+### *Boas vindas ao meu perfil*
 Meu nome é **Breno**
 
 - Estou estudando na [Alura](https://www.alura.com.br)
